@@ -2,7 +2,7 @@
 
 # Curently Happening
 
-# Judul Proyek: Klasifikasi penyakit gigi berdasarkan citra Periapical menggunakan CNN
+Judul Proyek: Klasifikasi penyakit gigi berdasarkan citra Periapical menggunakan CNN
 
 Kelompok 14 Deep Learning:
 1. Alayka Nazwa - 121450016
