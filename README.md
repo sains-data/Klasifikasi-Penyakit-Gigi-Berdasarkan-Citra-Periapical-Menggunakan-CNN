@@ -9,7 +9,7 @@ Kelompok 14 Deep Learning:
 2. Natanael Oktavianus - 
 3. Ayu Erlinawati -
 4. Eunike Bunga -
-5. Yogy Saetama -
+5. Yogy Saetama - 121450041
 
 Data:
 - https://www.kaggle.com/datasets/muhammadsajad/periapical-xrays
